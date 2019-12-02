@@ -1,6 +1,6 @@
 # notes-splunk
 
-Notes on Splunk.
+Notes on Splunk, a web platform for searching, monitoring, and analyzing machine-generated big data.
 
 ## Overview
 
