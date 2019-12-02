@@ -9,3 +9,7 @@ Notes on Splunk.
 3. [Deployment](./notes/1_overview/3_deployment.md)
 4. [App](./notes/1_overview/4_app.md)
 5. [Roles](./notes/1_overview/5_roles.md)
+
+## Data
+
+1. [Add](./notes/2_data/add.md)
