@@ -12,4 +12,9 @@ Notes on Splunk, a web platform for searching, monitoring, and analyzing machine
 
 ## Data
 
-1. [Add](./notes/2_data/add.md)
+1. [Add](./notes/2_data/1_add.md)
+
+## Search
+
+1. [UI](./notes/3_search/1_ui.md)
+2. [Basics](./notes/3_search/2_basics.md)
