@@ -5,7 +5,7 @@
 7 main parts:
 
 1. Top is **Splunk bar**. Used to switch apps, edit account, settings, etc. Appears on every page.
-2. Followed by **App bar** for navigating app.
+2. Followed by **App bar** for navigating app. Tap **Search** to clear current search.
 3. **Search bar** for searches. As text is entered, **search assistant** automatically shows contexual matches and syntax docs.
 4. To right of search bar is **time picker** to choose time period for search. Limiting search by time is key to faster results.
 5. **How to Search** panel has links to docs and tutorial.

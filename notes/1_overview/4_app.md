@@ -8,6 +8,6 @@ Defined by user with **Administrator** role.
 
 To quickly explore Splunk Enterprise. 1 of 2 default apps installed. Where to launch other apps, read docs, and set default dashboard. Where admin can add apps and data.
 
-## Search & Report
+## Search & Reporting
 
-Other default app.
+Other default app, where search is performed.

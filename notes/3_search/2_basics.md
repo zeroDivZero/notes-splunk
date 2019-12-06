@@ -1,8 +1,8 @@
 # SEARCH BASICS
 
-## Wild Card
+## Wildcard
 
-To broaden search, can insert wild card in search text. `fail*` matches `fail`, `failed`, `failure`, etc.
+To broaden search, can insert wildcard in search text. `fail*` matches `fail`, `failed`, `failure`, etc.
 
 ## Boolean
 
