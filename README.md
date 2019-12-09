@@ -20,3 +20,4 @@ Notes on Splunk, a web platform for searching, monitoring, and analyzing machine
 2. [Basics](./notes/3_search/2_basics.md)
 3. [Fields](./notes/3_search/3_fields.md)
 4. [Best Practices](./notes/3_search/4_best_practices.md)
+5. [SPL](./notes/3_search/5_spl.md)
