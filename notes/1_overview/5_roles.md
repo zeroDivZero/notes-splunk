@@ -8,7 +8,7 @@ Can install apps and create knowledge objs for all users.
 
 ## Power
 
-Can create and share knowledge objs for users of an app, and do real-time searches.
+Can create and share knowledge objs for users of app, and do real-time searches.
 
 ## User
 

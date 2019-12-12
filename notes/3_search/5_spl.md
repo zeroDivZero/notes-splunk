@@ -10,7 +10,7 @@ Each search consists of 5 parts:
 
 Example:
 
-`sourcetype=acc* status=200 | stats list(product_name) as "Games Sold" | top "Games`
+`sourcetype=acc* status=200 | stats list(product_name) as "Games Sold" | top "Games Sold"`
 
 * `sourcetype=acc* status=200` is search terms.
 * `stats` is command.

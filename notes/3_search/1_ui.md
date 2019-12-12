@@ -6,7 +6,7 @@
 
 1. Top is **Splunk bar**. Used to switch apps, edit account, settings, etc. Appears on every page.
 2. Followed by **App bar** for navigating app. Tap **Search** to clear current search.
-3. **Search bar** for searches. As text is entered, **search assistant** automatically shows contexual matches and syntax docs.
+3. **Search bar** for searches. As text entered, **search assistant** automatically shows contexual matches and syntax docs.
 4. To right of search bar is **time picker** to choose time period for search. Limiting search by time is key to faster results.
 5. **How to Search** panel has links to docs and tutorial.
 6. **What to Search** gives summary of indexed (searchable) data.
@@ -42,7 +42,7 @@ Next to total events display is menu for **Event Sampling**, which returns rando
 
 ### Timeline
 
-Click or drag-select interval to investigate only events selected. Or use zoom buttons to zoom in/out. Zooming in uses original job, zooming out triggers new search.
+Tap or drag-select interval to investigate only events selected. Or use zoom buttons to zoom in/out. Zooming in uses original job, zooming out triggers new search.
 
 ## Event List
 
@@ -52,6 +52,6 @@ Displayed in reverse chronological order, highlighting matching texts.
 
 Timestamp displayed in user account's timezone.
 
-Hover over text in event to highlight, click to do contextual search (add, exclude, or new search).
+Hover over text in event to highlight, tap to do contextual search (add, exclude, or new search).
 
 By default events displayed as **List**. Can change to **Raw** or **Table**.

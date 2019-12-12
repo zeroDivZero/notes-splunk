@@ -18,11 +18,11 @@ Monitor files & directories, http events, network ports, or data-gathering scrip
 
 Receive data from external forwarder.
 
-## Source Type
+## Sourcetype
 
-If Splunk recognizes data, will assign pretrained source type. Can create custom ones. Can adjust settings like timestamp and delimiter.
+If Splunk recognizes data, will assign pretrained sourcetype. Can create custom ones. Can adjust settings like timestamp and delimiter.
 
-When saving custom type, need to select App context, which tells Splunk which app to apply source type to. Choose `system` for system-wide availability.
+When saving custom type, need to select app context, which tells Splunk which app to apply source type to. Choose `system` for system-wide availability.
 
 ## Input Settings
 
@@ -34,6 +34,6 @@ Specify **Host field value** as constant, regex, or segment.
 
 Choose index (timestamped directories) to store data. Tendency is to use default **Main Index**. Advantages of using separate indexes:
 
-1. Search is more efficient (limits search space).
+1. Search more efficient (limits search space).
 2. Easier to control who can see what data.
 3. Each index can have own retention policy (how long to keep data).

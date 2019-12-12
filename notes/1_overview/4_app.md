@@ -1,8 +1,8 @@
 # APP
 
-Preconfigured env that sits on top of Splunk instance. Think of it as workspace built to solve specific use case.
+Preconfigured env that sits on top of Splunk inst. Think of it as workspace built to solve specific use case.
 
-Defined by user with **Administrator** role.
+Defined by user with **administrator** role.
 
 ## Home
 

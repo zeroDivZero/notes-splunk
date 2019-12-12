@@ -43,7 +43,7 @@ otherstr=string
 Ex:
 
 ```
-| top Vendor limit=5 showperc=False countfield="Number of Sales" useother=true
+| top Vendor limit=5 showperc=false countfield="Number of Sales" useother=true
 ```
 
 Show top 3 products by each vendor:
