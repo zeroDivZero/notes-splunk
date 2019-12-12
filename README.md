@@ -21,3 +21,26 @@ Notes on Splunk, a web platform for searching, monitoring, and analyzing machine
 3. [Fields](./notes/3_search/3_fields.md)
 4. [Best Practices](./notes/3_search/4_best_practices.md)
 5. [SPL](./notes/3_search/5_spl.md)
+
+### Commands
+
+* [`fields`](./notes/3_search/commands/fields.md)
+* [`table`](./notes/3_search/commands/table.md)
+* [`sort`](./notes/3_search/commands/sort.md)
+* [`dedup`](./notes/3_search/commands/dedup.md)
+* [`rename`](./notes/3_search/commands/rename.md)
+
+#### Transforming
+
+[Basics](./notes/3_search/commands/transforming/1_basics.md)
+
+* [`top`](./notes/3_search/commands/transforming/top.md)
+* [`rare`](./notes/3_search/commands/transforming/rare.md)
+* [`stats`](./notes/3_search/commands/transforming/stats/stats.md)
+  * Functions
+  * [`count`](./notes/3_search/commands/transforming/stats/functions/count.md)
+  * [`dc` (`distinct_count`)](./notes/3_search/commands/transforming/stats/functions/dc.md)
+  * [`sum`](./notes/3_search/commands/transforming/stats/functions/sum.md)
+  * [`avg`, `min`, `max`](./notes/3_search/commands/transforming/stats/functions/avg_min_max.md)
+  * [`list`](./notes/3_search/commands/transforming/stats/functions/list.md)
+  * [`values`](./notes/3_search/commands/transforming/stats/functions/values.md)
