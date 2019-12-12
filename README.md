@@ -4,7 +4,7 @@ Notes on Splunk, a web platform for searching, monitoring, and analyzing machine
 
 ## Overview
 
-1. [Functions](./notes/1_overview/1_functions.md)
+1. [Functionalities](./notes/1_overview/1_functionalities.md)
 2. [Components](./notes/1_overview/2_components.md)
 3. [Deployment](./notes/1_overview/3_deployment.md)
 4. [App](./notes/1_overview/4_app.md)
