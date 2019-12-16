@@ -44,3 +44,15 @@ Notes on Splunk, a web platform for searching, monitoring, and analyzing machine
   * [`avg`, `min`, `max`](./notes/3_search/commands/transforming/stats/functions/avg_min_max.md)
   * [`list`](./notes/3_search/commands/transforming/stats/functions/list.md)
   * [`values`](./notes/3_search/commands/transforming/stats/functions/values.md)
+
+## Report
+
+1. [Report](./notes/4_report/report.md)
+
+## Visualization
+
+1. [Visualization](./notes/5_visualization/visualization.md)
+
+## Dashboard
+
+1. [Dashboard](./notes/6_dashboard/dashboard.md)
