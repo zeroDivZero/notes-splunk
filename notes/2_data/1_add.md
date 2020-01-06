@@ -20,7 +20,7 @@ Receive data from external forwarder.
 
 ## Sourcetype
 
-If Splunk recognizes data, will assign pretrained sourcetype. Can create custom ones. Can adjust settings like timestamp and delimiter.
+If Splunk recognizes data, will assign pretrained source type. Can create custom ones. Can adjust settings like timestamp and delimiter.
 
 When saving custom type, need to select app context, which tells Splunk which app to apply source type to. Choose `system` for system-wide availability.
 
